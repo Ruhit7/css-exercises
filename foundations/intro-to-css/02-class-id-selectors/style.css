@@ -1,0 +1,18 @@
+.odd {
+  background-color: #ffb6c1;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#even {
+  color: #2b00ff;
+  font-size: 36px;
+}
+
+.check {
+  font-size: 24px;
+}
+
+#anothereven {
+  background-color: #1ce577;
+  font-weight: bold;
+}
